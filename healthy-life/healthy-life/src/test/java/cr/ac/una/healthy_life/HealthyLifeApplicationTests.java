@@ -1,4 +1,4 @@
-package cr.ac.una.healthy_life;
+package org.una.progra3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

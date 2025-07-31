@@ -8,7 +8,7 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cr.ac.una</groupId>
+	<groupId>org.una.progra3</groupId>
 	<artifactId>healthy-life</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>healthy-life</name>

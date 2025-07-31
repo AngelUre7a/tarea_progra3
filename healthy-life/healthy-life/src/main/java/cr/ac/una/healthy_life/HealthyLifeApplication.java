@@ -1,4 +1,4 @@
-package cr.ac.una.healthy_life;
+package org.una.progra3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
